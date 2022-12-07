@@ -66,4 +66,4 @@
    
       参考 [Installation Guide :: NVIDIA Deep Learning cuDNN Documentation](https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html#install-zlib-windows)
    
-      
+   4. 将 weights 权重文件放到 backup\pos_final.weights 即可
