@@ -58,14 +58,12 @@
       pip install -r requirements.txt
       ```
 
-   2. ```
+   2. ```shell
       python main.py --mode flask
       ```
 
+   3. 运行后如果缺失 zlibwapi.dll，
+   
+      参考 [Installation Guide :: NVIDIA Deep Learning cuDNN Documentation](https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html#install-zlib-windows)
+   
       
-
-
-​      
-
-
-
